@@ -1,4 +1,4 @@
-# TeamViewer
+# TeamViewer Team Client
 
 TeamViewer is a leading software application designed for remote access, screen sharing, and file transfer. Its intuitive interface and powerful functionality make it an essential tool for IT professionals, businesses, and individual users. With TeamViewer, you can connect to devices across the globe, troubleshoot issues, or collaborate with team members seamlessly—all from the comfort of your own workstation.
 
@@ -67,4 +67,4 @@ TeamViewer is straightforward to use:
 1. Download TeamViewer from [the official website](https://www.teamviewer.com/).
 2. Follow the installation wizard to set up the software on your device.
 3. Explore the documentation and support articles to make the most of its features.
-TeamViewer: Download Secure Remote Desktop App
+TeamViewer Team Client: Download Secure Remote
